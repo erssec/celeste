@@ -1,6 +1,6 @@
-title:               Celeste
-url:                 https://nicoelayda.github.io
-baseurl:             ""
+title:               15th Shaban Celebration
+url:                 https://erssec.github.io/
+baseurl:             "/celeste"
 
 markdown:            kramdown
 highlighter:         rouge
@@ -19,9 +19,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              Cheshmberah
+  url:               15th-shaban.org
+  email:             n/a
 
 plugins:
   - jekyll-coffeescript
